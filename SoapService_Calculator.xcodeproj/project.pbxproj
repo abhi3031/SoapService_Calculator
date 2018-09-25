@@ -12,6 +12,7 @@
 		E7E87B53215A09DE00A41795 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E7E87B51215A09DE00A41795 /* Main.storyboard */; };
 		E7E87B55215A09DE00A41795 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E7E87B54215A09DE00A41795 /* Assets.xcassets */; };
 		E7E87B58215A09DE00A41795 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E7E87B56215A09DE00A41795 /* LaunchScreen.storyboard */; };
+		E7E87B60215A1B7400A41795 /* CalculatorTask.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7E87B5F215A1B7400A41795 /* CalculatorTask.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		E7E87B54215A09DE00A41795 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E7E87B57215A09DE00A41795 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E7E87B59215A09DE00A41795 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E7E87B5F215A1B7400A41795 /* CalculatorTask.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalculatorTask.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				E7E87B4D215A09DE00A41795 /* AppDelegate.swift */,
 				E7E87B4F215A09DE00A41795 /* ViewController.swift */,
+				E7E87B5F215A1B7400A41795 /* CalculatorTask.swift */,
 				E7E87B51215A09DE00A41795 /* Main.storyboard */,
 				E7E87B54215A09DE00A41795 /* Assets.xcassets */,
 				E7E87B56215A09DE00A41795 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E7E87B50215A09DE00A41795 /* ViewController.swift in Sources */,
+				E7E87B60215A1B7400A41795 /* CalculatorTask.swift in Sources */,
 				E7E87B4E215A09DE00A41795 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
